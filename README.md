@@ -1,6 +1,6 @@
 Java QAP 2
 
-This QAP is finally in a somewhat passable state, not everything is implemented but I need to move on to the final sprint.
+This QAP is finally in a somewhat passable state, not everything is implemented but I need to move on to the final sprint. Also, I will figure out how to push to GitHub for the sprint as well, I won't keep uploading files for that.
 
 Answers to questions:
 
